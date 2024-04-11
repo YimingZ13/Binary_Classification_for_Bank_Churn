@@ -35,7 +35,7 @@ There are no special packages needed for this project, most of packages come wit
 
 <a name="FeatureDocumentations"></a>
 ## Feature Documentations
-`creditcard.csv`:
+`train.csv`:
 - `Customer ID`: A unique identifier for each customer
 - `Surname` : The customer's surname or last name
 - `Credit Score` : A numerical value representing the customer's credit score
